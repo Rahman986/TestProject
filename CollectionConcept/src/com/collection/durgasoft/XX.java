@@ -2,6 +2,8 @@ package com.collection.durgasoft;
 
 public class XX {
 	public static void main(String[] args) {
+		
+		System.out.println("Hello");
 		try {
 			badMethod();
 			System.out.println("A");
