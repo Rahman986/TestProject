@@ -18,6 +18,8 @@ public class XX {
 	}
 	
  public static void badMethod() {
+	 System.out.println("Rahman");
 	 
  }
+ 
 }
